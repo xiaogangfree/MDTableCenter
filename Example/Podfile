@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MDTableCenter_Example' do
+  pod 'MDTableCenter', :path => '../'
+
+  target 'MDTableCenter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
