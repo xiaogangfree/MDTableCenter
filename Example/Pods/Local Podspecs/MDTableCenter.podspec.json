@@ -1,0 +1,22 @@
+{
+  "name": "MDTableCenter",
+  "version": "0.1.0",
+  "summary": "A short description of MDTableCenter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaogangfree/MDTableCenter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaogangfree": "xiaogangfree@126.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaogangfree/MDTableCenter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MDTableCenter/Classes/**/*"
+}

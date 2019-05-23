@@ -1,0 +1,16 @@
+PODS:
+  - MDTableCenter (0.1.0)
+
+DEPENDENCIES:
+  - MDTableCenter (from `../`)
+
+EXTERNAL SOURCES:
+  MDTableCenter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MDTableCenter: dafefd38eae47ab3ec20faf168a1093d43328e67
+
+PODFILE CHECKSUM: 591032161f11c18f311957514b25d7ce2c381767
+
+COCOAPODS: 1.5.3
